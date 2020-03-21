@@ -25,6 +25,8 @@ Groceries:
 
 Weee!: Asian founder and CEO; privately held.
 
+# https://apps.apple.com/us/app/weee-asian-groceries-%E5%8D%8E%E4%BA%BA%E7%94%9F%E9%B2%9C%E7%AC%AC%E4%B8%80%E7%AB%99/id921864548
+
 1. UberEats
 2. UberDriver
 3. Lyfe
